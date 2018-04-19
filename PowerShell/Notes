@@ -1,0 +1,1 @@
+cmd.exe /c '\my-app\my-file.bat'
